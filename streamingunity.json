@@ -9,8 +9,8 @@
     "language": "Italian",
     "streamType": "HLS",
     "quality": "1080p",
-    "baseUrl": "https://streamingunity.gratis/it",
-    "searchBaseUrl": "https://streamingunity.gratis/it/archive?title=%s",
+    "baseUrl": "https://streamingunity.shop/it",
+    "searchBaseUrl": "https://streamingunity.shop/it/archive?title=%s",
     "scriptUrl": "https://raw.githubusercontent.com/Spottega/StreamingUnity/refs/heads/main/streamingunity.js",
     "asyncJS": true,
     "type": "shows/movies"
