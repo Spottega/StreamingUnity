@@ -11,7 +11,7 @@
     "quality": "1080p",
     "baseUrl": "https://streamingunity.gratis/it",
     "searchBaseUrl": "https://streamingunity.gratis/it/archive?title=%s",
-    "scriptUrl": "https://raw.githubusercontent.com/50n50/sources/refs/heads/main/streamingunity/streamingunity.js",
+    "scriptUrl": "https://raw.githubusercontent.com/Spottega/StreamingUnity/refs/heads/main/streamingunity.js",
     "asyncJS": true,
     "type": "shows/movies"
 }
